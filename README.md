@@ -1,2 +1,2 @@
 # published
-Published pages from Research Genie
+Published pages from Notebook Genie
